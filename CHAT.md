@@ -4,7 +4,7 @@
 ## Body
 ```json
 {
-    "type": "keyboard [keyboard | all_friend | friend]",
+    "type": "keyboard [keyboard | all_friend | friend | emoticon]",
     "body": "TEXT [string | number | true | false]",
     "userId": "0x1ac4740dc02de35d [Friend id]"
 }
